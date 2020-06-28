@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica_CheckBox_SumaResta</string>
+    // EditText
+    <string name="xml_num1">Ingresa el primer número</string>
+    <string name="xml_num2">Ingresa el segundo número</string>
+    // CheckBox
+    <string name="xml_rbSum">Sumar</string>
+    <string name="xml_rbRes">Restar</string>
+    // Button
+    <string name="xml_btn">Calcular</string>
+    // TextView
+    <string name="xml_tv">Resultado</string>
+</resources>
